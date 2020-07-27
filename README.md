@@ -7,6 +7,8 @@ A simple script that calculates your odds of collecting the themed lands by play
 # How to run?
 Modify the top of the script to set your currency or collection preferences or run as-is for some sample output.
 
+Run it online at [https://repl.it/@dc16/jumpstart](https://repl.it/@dc16/jumpstart#main.py) or as a script:
+
 `python3 main.py`
 
 # Sample output
